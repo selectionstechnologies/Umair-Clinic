@@ -6,6 +6,14 @@
 
 html {
   scroll-behavior: smooth;
+  /* keep anchored sections clear of the fixed navbar */
+  scroll-padding-top: 4rem;
+}
+
+@media (min-width: 768px) {
+  html {
+    scroll-padding-top: 7.5rem;
+  }
 }
 
 @layer components {

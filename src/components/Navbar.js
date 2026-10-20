@@ -26,8 +26,8 @@ export default function Navbar() {
       <div className="hidden bg-primary-900 text-sm text-primary-100 md:block">
         <div className="container-x flex h-10 items-center justify-between">
           <p>Mon – Sat: 9:00 AM – 10:00 PM · Emergency 24/7</p>
-          <a href="tel:+923001234567" className="flex items-center gap-2 hover:text-white">
-            <PhoneIcon className="h-4 w-4" /> +92 300 1234567
+          <a href="tel:+923324108282" className="flex items-center gap-2 hover:text-white">
+            <PhoneIcon className="h-4 w-4" /> +92 332 4108282
           </a>
         </div>
       </div>

@@ -41,11 +41,11 @@ export default function Appointment() {
             </ul>
           </div>
 
-          <a href="tel:+923001234567" className="mt-6 flex items-center gap-3 rounded-2xl bg-white/10 p-5 hover:bg-white/20">
+          <a href="tel:+923324108282" className="mt-6 flex items-center gap-3 rounded-2xl bg-white/10 p-5 hover:bg-white/20">
             <span className="rounded-xl bg-white p-3 text-primary-600"><PhoneIcon /></span>
             <span>
               <span className="block text-sm text-primary-100">Emergency Call</span>
-              <span className="text-lg font-semibold">+92 300 1234567</span>
+              <span className="text-lg font-semibold">+92 332 4108282</span>
             </span>
           </a>
         </div>

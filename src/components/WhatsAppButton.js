@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "923001234567";
+export const WHATSAPP_NUMBER = "923324108282";
 
 export const whatsappLink = (text = "Hello Umair Clinic, I would like to book an appointment.") =>
   `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;

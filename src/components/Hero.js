@@ -52,8 +52,8 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="relative mx-auto w-full max-w-md lg:max-w-none">
-          <div className="aspect-[4/5] overflow-hidden rounded-[2rem] bg-primary-100 shadow-2xl">
+        <div className="relative order-first mx-auto w-full max-w-sm sm:max-w-md lg:order-none lg:max-w-none">
+          <div className="aspect-square overflow-hidden sm:aspect-[4/5] rounded-[2rem] bg-primary-100 shadow-2xl">
             <img
               src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=900&q=80"
               alt="Doctor at Umair Clinic"

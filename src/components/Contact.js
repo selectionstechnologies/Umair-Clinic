@@ -2,7 +2,7 @@ import { MailIcon, MapIcon, PhoneIcon } from "./Icons";
 
 const info = [
   { icon: MapIcon, title: "Address", text: "Main Boulevard, Lahore, Pakistan" },
-  { icon: PhoneIcon, title: "Phone", text: "+92 300 1234567", href: "tel:+923001234567" },
+  { icon: PhoneIcon, title: "Phone", text: "+92 332 4108282", href: "tel:+923324108282" },
   { icon: MailIcon, title: "Email", text: "info@umairclinic.com", href: "mailto:info@umairclinic.com" },
 ];
 

@@ -12,7 +12,7 @@ const topics = [
   {
     label: "Book Appointment",
     keywords: ["appointment", "book", "booking", "visit", "milna"],
-    answer: "You can book using the appointment form on this page, call +92 300 1234567, or message us on WhatsApp for a quick confirmation.",
+    answer: "You can book using the appointment form on this page, call +92 332 4108282, or message us on WhatsApp for a quick confirmation.",
     link: { href: "#appointment", text: "Go to appointment form" },
   },
   {
@@ -35,8 +35,8 @@ const topics = [
   {
     label: "Emergency",
     keywords: ["emergency", "urgent", "ambulance"],
-    answer: "For emergencies please call +92 300 1234567 immediately. Our emergency team is available 24/7.",
-    link: { href: "tel:+923001234567", text: "Call now" },
+    answer: "For emergencies please call +92 332 4108282 immediately. Our emergency team is available 24/7.",
+    link: { href: "tel:+923324108282", text: "Call now" },
   },
 ];
 
